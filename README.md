@@ -71,8 +71,18 @@ git push -u origin <your_branch_name>
 **9.** Click on `Create Pull Request`.
 
 **10** Congratulation You have Submmited Your Project. Sit back patiently and relax while the your PR is reviewed.
-
+<p align="center"><img src="https://media.giphy.com/media/26DOoDwdNGKAg6UKI/giphy.gif" width=35%></p>
 
 
 In case of any help, please free to contact [us](connectnitesh8@gmail.com) via email !
+
+# Connect Us On 🤝:
+<p align="center">
+  <a href="https://www.instagram.com/robotics_club_mmmut/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+<a href="https://www.facebook.com/roboticsclub.mmmut">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCq1SGYOxepwOHBE8eQcE_Pg?style=social">
 
