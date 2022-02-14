@@ -75,6 +75,7 @@ git push -u origin <your_branch_name>
 
 **10** Congratulation You have Submmited Your Project. Sit back patiently and relax while the your PR is reviewed.
 
+<p align="center"><img src="https://media.giphy.com/media/l49JNZ87F3AmPoH0A/giphy.gif" width=30%></p>
 
 
 In case of any help, please free to contact [us](mailto:connectnitesh8@gmail.com) via email !
