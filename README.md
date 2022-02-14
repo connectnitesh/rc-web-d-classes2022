@@ -77,7 +77,7 @@ git push -u origin <your_branch_name>
 
 
 
-In case of any help, please free to contact [us](connectnitesh8@gmail.com) via email !
+In case of any help, please free to contact [us](mailto:connectnitesh8@gmail.com) via email !
 
 # Connect Us On 🤝:
 <p align="center">
