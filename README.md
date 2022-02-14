@@ -24,7 +24,10 @@
 - [Amazon Prime Clone](https://github.com/kshitiz-patel/Robotics-Club-Web-Development-Classes-2021-22/)
 - ![image](https://user-images.githubusercontent.com/79007697/153775543-d26b87f4-bb2d-4c44-9486-16e50ad7aed1.png)
 
+
+
 ## Submit Your Project
+
 
 To Submit Your Project run
 
@@ -71,7 +74,7 @@ git push -u origin <your_branch_name>
 **9.** Click on `Create Pull Request`.
 
 **10** Congratulation You have Submmited Your Project. Sit back patiently and relax while the your PR is reviewed.
-<p align="center"><img src="https://media.giphy.com/media/26DOoDwdNGKAg6UKI/giphy.gif" width=35%></p>
+
 
 
 In case of any help, please free to contact [us](connectnitesh8@gmail.com) via email !
