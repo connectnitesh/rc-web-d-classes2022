@@ -1,4 +1,4 @@
-![rc-web-d-classes2022](https://socialify.git.ci/connectnitesh/rc-web-d-classes2022/image?font=Rokkitt&forks=1&issues=1&logo=https%3A%2F%2Frcmmmut.in%2Fstatic%2Fmedia%2Ffavicon.79f3e419.png&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+![rc-web-d-classes2022](https://socialify.git.ci/connectnitesh/rc-web-d-classes2022/image?font=Rokkitt&forks=1&issues=1&logo=https%3A%2F%2Fscontent.fdel29-1.fna.fbcdn.net%2Fv%2Ft1.18169-9%2F15977238_1235856319784833_8660986776395281819_n.jpg%3F_nc_cat%3D100%26ccb%3D1-5%26_nc_sid%3D174925%26_nc_ohc%3DHuEJxfhQmWMAX-eWETJ%26_nc_ht%3Dscontent.fdel29-1.fna%26oh%3D00_AT8utbhZcjOVW6RAx7wBmSuYr8LCCfVndpHQi_3EgYNchw%26oe%3D62309996&pulls=1&stargazers=1&theme=Dark)
 
 # Web-D Classes by Robotics Club MMMUT 2022
 
