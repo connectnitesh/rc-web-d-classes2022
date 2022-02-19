@@ -35,7 +35,7 @@ To Submit Your Project run
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/connectnitesh/web-d-classes-2022.git
+git clone https://github.com/connectnitesh/rc-web-d-classes-2022.git
 ```
 
 **2.** Create a new branch.
