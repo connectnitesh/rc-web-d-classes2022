@@ -35,44 +35,69 @@ To Submit Your Project run
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/connectnitesh/rc-web-d-classes2022.git
+git clone --depth 1 https://github.com/<your_username>/rc-web-d-classes2022.git
 ```
 
-**2.** Create a new branch.
+**3.** Navigate to the project directory :file_folder: .
+
+```
+cd rc-web-d-classes2022
+
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/connectnitesh/rc-web-d-classes2022.git
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch.
 
 ```
 git checkout -b <your_branch_name>
 ```
 
-**3.** Put Your Project Code.
+**8.** Put your project code
 
 
 
-**4.** Track your changes:heavy_check_mark: .
+**9.** Track your changes:heavy_check_mark: .
 
 ```
 git add .
 ```
 
-**5.** Commit your changes .
+**10.** Commit your changes .
 
 ```
-git commit -m "Your Name"
+git commit -m "Relevant message"
 ```
 
-**6.** Push the committed changes in your feature branch to your remote repo.
+**11.** Push the committed changes in your feature branch to your remote repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
-**7.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+**12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
-**8.** Title- Your Name & Description Screenshot of Your Web Pages.
+**13.** Put Your name as Title and Screenshot of webpage as Description.
 
-**9.** Click on `Create Pull Request`.
+**14.** Click on `Create Pull Request`.
 
-**10** Congratulation You have Submmited Your Project. Sit back patiently and relax while the your PR is reviewed.
+**15** You have successfully submit your project. Sit back patiently and relax while the your PR is reviewed.
 
 <p align="center"><img src="https://media.giphy.com/media/l49JNZ87F3AmPoH0A/giphy.gif" width=30%></p>
 
