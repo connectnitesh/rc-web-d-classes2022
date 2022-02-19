@@ -30,7 +30,7 @@
 
 To Submit Your Project run
 
-**1.** Fork [this](https://github.com/connectnitesh/web-d-classes-2022) repository.
+**1.** Fork [this](https://github.com/connectnitesh/rc-web-d-classes2022) repository.
 
 **2.** Clone your forked copy of the project.
 
