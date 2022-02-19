@@ -104,6 +104,9 @@ git push -u origin <your_branch_name>
 
 In case of any help, please free to contact [us](mailto:connectnitesh8@gmail.com) via email !
 
+**Feedback Form** :- 
+https://forms.gle/fF6uRjrtMGoJeUw78
+
 # Connect Us On 🤝:
 <p align="center">
   <a href="https://www.instagram.com/robotics_club_mmmut/">
