@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin:0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    display: grid;
+    grid-gap: 1rem;
+    height: 570px;
+    grid-template-areas: 
+    'heading navbar navbar navbar'
+    'section1 section1 section1 section1';
+}
+#heading::before{ 
+    content: "";
+    position: absolute;
+    background: url(../bg3.jpg) no-repeat center  center/cover;
+    height: 100%;
+    top:0px;
+    left:0px;
+    width: 100%;
+    z-index: -1;
+    opacity:0.90;
+}
+#heading{
+    margin: 20px 40px;
+    text-shadow: 2px 5px 3px red;
+    height: 50px;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    color: blueviolet;
+}
+#navbar{
+grid-area: navbar;
+margin: 20px;
+margin-top: 32px;
+display: flexbox;
+height: 60px;
+background-color: rgb(204, 195, 195);
+border-radius: 15px;
+border: 3px solid rgb(47, 2, 90);
+color:rgb(21, 50, 180);
+font-weight: bolder;
+padding: 10px;
+padding-top: 15px;
+}
+#bar{
+    position: absolute;
+    right: 35px;
+    top: 53px;
+    color: black;
+}
+#bar:hover{
+    color: white;
+    cursor: pointer;
+    
+}
+#bar_item{
+    display: none;
+    border: 3px solid black;
+    box-shadow: 6px 6px rebeccapurple;
+    padding-left: 15px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-weight: bold;
+    background-color: rgb(160, 116, 202);
+    height: 95px;
+    width:90px;
+    position: absolute;
+    right: 20px;
+    top: 90px;
+    border-radius: 16px;
+}
+#bar_item a{
+    text-decoration: none;
+}
+#bar_item a:hover{
+    cursor: pointer;
+    color: white;
+}
+#section1{
+    position: absolute;
+    grid-area: section1;
+    top: 170px;
+    left: 200px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+
+}
+table{
+    width: 500px;
+    height: 400px;
+}
+
+#footer{
+display: flex;
+position: absolute;
+top:90%;
+align-items: center;
+justify-content: center;
+margin:0px;
+width: 100%;
+background-color:black;
+opacity:1;
+height: 80px;
+}
+.item{
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.icon{
+    margin-right: 30px;
+}
+.copy{
+    margin-right: 30px;
+}
+.icon:hover{
+    opacity: 0.7;
+}
+#navbar input{
+    float: right;
+    border-radius: 20px;
+    height: 25px;
+    width: 210px;
+    padding-left: 15px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+#navbar span{
+    overflow: auto;
+}
+#navbar span a{
+    text-decoration: none;
+}
+#navbar span a:hover {
+    color: white; 
+}
+.FinalCall{
+    position: absolute;
+    top: 400px;
+    left:155px;
+    background-color: rgb(168, 164, 162);
+    width: 100px;
+    height:30px;
+    font-family: Algerian;
+    font-weight: bold;
+    font-size:100% ;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.Round{
+    border-radius: 20px;
+    padding-left: 5px;
+}
+
+
+
